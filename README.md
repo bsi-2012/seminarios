@@ -2,5 +2,7 @@
 
 Lista com todos os seminários apresentados pelo curso de BSI
 
-* http://bsi.github.io/nhibernate/ | https://github.com/bsi/nhibernate
+* https://bsi.github.io/nhibernate/ | http://github.com/bsi/nhibernate
 * https://github.com/bsi/EclipseLink
+* https://bsi.github.io/ios | http://github.com/bsi/ios
+* https://github.com/bsi/Symbian | http://bsi.github.io/Symbian
